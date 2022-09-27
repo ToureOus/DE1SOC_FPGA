@@ -1,0 +1,45 @@
+|Lab1
+B <= Output_b_OR.DB_MAX_OUTPUT_PORT_TYPE
+D0 => five.IN0
+D0 => Character_b.IN3
+D0 => inst11.IN0
+D0 => Char_f.IN3
+D0 => one.IN0
+D0 => seven.IN0
+D0 => Nine.IN3
+D0 => Char_d.IN3
+D0 => three.IN0
+D1 => inst10.IN0
+D1 => Character_b.IN2
+D1 => six.IN1
+D1 => Char_e.IN2
+D1 => Char_f.IN2
+D1 => two.IN1
+D1 => seven.IN1
+D1 => Character_A.IN2
+D1 => three.IN1
+D2 => five.IN2
+D2 => inst9.IN0
+D2 => six.IN2
+D2 => Char_c.IN1
+D2 => Char_e.IN1
+D2 => Char_f.IN1
+D2 => seven.IN2
+D2 => Four.IN2
+D2 => Char_d.IN1
+D3 => inst8.IN0
+D3 => Character_b.IN0
+D3 => Char_c.IN0
+D3 => Char_e.IN0
+D3 => Char_f.IN0
+D3 => Nine.IN0
+D3 => Character_A.IN0
+D3 => Char_d.IN0
+C <= OUTPUT_C_OR.DB_MAX_OUTPUT_PORT_TYPE
+D <= Output_D_OR.DB_MAX_OUTPUT_PORT_TYPE
+A <= Output_A_OR.DB_MAX_OUTPUT_PORT_TYPE
+E <= Output_e_OR.DB_MAX_OUTPUT_PORT_TYPE
+F <= Output_F_OR.DB_MAX_OUTPUT_PORT_TYPE
+g <= OUTPUT_G_OR.DB_MAX_OUTPUT_PORT_TYPE
+
+

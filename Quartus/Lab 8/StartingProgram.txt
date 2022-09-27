@@ -1,0 +1,4 @@
+The starting program can be found on page 63 till 65 on the data sheet found in this folder.
+Don't forget to use the virtualization.
+
+Good luck.
